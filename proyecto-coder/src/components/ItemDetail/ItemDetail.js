@@ -1,6 +1,6 @@
 import './ItemDetail.css'
 import {ContadorUnidades} from '../contadorUnidades/contadorUnidades'
-import { useState, useContext } from 'react'
+import { useContext } from 'react'
 import {CartContext} from '../../context/CartContext'
 import { Link } from 'react-router-dom'
 
